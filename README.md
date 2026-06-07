@@ -4,5 +4,5 @@
 $$\frac{d^2x}{dt^2} - 3\frac{dx}{dt} + 2x = \delta(t)$$
 
 # 題目二
-令 $f(x) = x²$，$x \in [-\pi, \pi]$
+令 $f(x) = x²$，$x \in [-\pi, \pi]$。
 求函數 $f(X)$ 之傳立葉級數
