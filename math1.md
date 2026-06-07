@@ -55,9 +55,9 @@ $$X(s) = \frac{1}{s - 2} - \frac{1}{s - 1}$$
 
 對 $X(s)$ 取反變換 $\mathcal{L}^{-1}$ 以求得時域原函數 $x(t)$：
 
-$$x(t) = \mathcal{L}^{-1}\{X(s)\} = \mathcal{L}^{-1}\left\{\frac{1}{s - 2}\right\} - \mathcal{L}^{-1}\left\{\frac{1}{s - 1}\right\}$$
+$$x(t) = \mathcal{L}^{-1}[X(s)] = \mathcal{L}^{-1}\left[\frac{1}{s - 2}\right] - \mathcal{L}^{-1}\left[\frac{1}{s - 1}\right]$$
 
-根據常用的基本拉普拉斯變換公式 $\mathcal{L}^{-1}\left\{\frac{1}{s - a}\right\} = e^{at}$，可直接查表導出時域解。
+根據常用的基本拉普拉斯變換公式 $\mathcal{L}^{-1}\left[\frac{1}{s - a}\right] = e^{at}$，可直接查表導出時域解。
 
 ---
 
