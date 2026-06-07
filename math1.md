@@ -64,5 +64,4 @@ $$x(t) = \mathcal{L}^{-1}\{X(s)\} = \mathcal{L}^{-1}\left\{\frac{1}{s - 2}\right
 ### Ans:
 
 $$x(t) = e^{2t} - e^t \quad (t \ge 0)$$
-### Ans:
-$$x(t) = e^{2t} - e^t \quad (t \ge 0)$$
+
