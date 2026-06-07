@@ -57,7 +57,7 @@ $$X(s) = \frac{1}{s - 2} - \frac{1}{s - 1}$$
 
 $$x(t) = \mathcal{L}^{-1}\{X(s)\} = \mathcal{L}^{-1}\left\{\frac{1}{s - 2}\right\} - \mathcal{L}^{-1}\left\{\frac{1}{s - 1}\right空间}$$
 
-根據常用的基本拉普拉斯變換公式 $\mathcal{L}^{-1}\{\frac{1}{s - a}\} = e^{at}$，可直接查表導出時域解。
+根據常用的基本拉普拉斯變換公式 $\mathcal{L}^{-1}\{\frac{1}{s - a}\} = e^{at}$，可得。
 
 ---
 
